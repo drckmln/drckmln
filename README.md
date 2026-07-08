@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+
+## 🛠️ Currently Learning
+
+- TCP/IP Fundamentals
+- OSI Model
+- IPv4 & IPv6
+- Subnetting
+- Routing & Switching
+- VLANs
+- DNS, DHCP
+- Network Security Basics
+- Cisco Packet Tracer
+
 <!--
 **drckmln/drckmln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
